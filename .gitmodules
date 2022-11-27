@@ -1,0 +1,3 @@
+[submodule "sample-models"]
+	path = sample-models
+	url = git@github.com:UKTechArena/sample-models.git

@@ -1,0 +1,116 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build and install directories
+build
+test
+
+# MacOS
+.DS_Store
+
+# Files
+*.json
+*.log
+
+# Symlinks to executables
+encoder
+decoder
+
+# CMake junk
+CMakeCache.txt
+/CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Editor Junk
+/.vscode/
+/local_backup/
+.idea/.gitignore
+.idea/.name
+.idea/dev-huffman.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+cmake-build-debug/build.ninja
+cmake-build-debug/.cmake/api/v1/query/cache-v2
+cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1
+cmake-build-debug/.cmake/api/v1/query/codemodel-v2
+cmake-build-debug/.cmake/api/v1/query/toolchains-v1
+cmake-build-debug/CMakeFiles/clion-environment.txt
+cmake-build-debug/CMakeFiles/clion-log.txt
+cmake-build-debug/CMakeFiles/cmake.check_cache
+cmake-build-debug/CMakeFiles/rules.ninja
+cmake-build-debug/CMakeFiles/TargetDirectories.txt
+cmake-build-debug/CMakeFiles/3.24.3/CMakeCCompiler.cmake
+cmake-build-debug/CMakeFiles/3.24.3/CMakeCXXCompiler.cmake
+cmake-build-debug/CMakeFiles/3.24.3/CMakeDetermineCompilerABI_C.bin
+cmake-build-debug/CMakeFiles/3.24.3/CMakeDetermineCompilerABI_CXX.bin
+cmake-build-debug/CMakeFiles/3.24.3/CMakeSystem.cmake
+cmake-build-debug/CMakeFiles/3.24.3/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.24.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-release/.ninja_deps
+cmake-build-release/.ninja_log
+cmake-build-release/build.ninja
+cmake-build-release/dbgPrettyPrint.diag
+cmake-build-release/decomp
+cmake-build-release/huffman
+cmake-build-release/.cmake/api/v1/query/cache-v2
+cmake-build-release/.cmake/api/v1/query/cmakeFiles-v1
+cmake-build-release/.cmake/api/v1/query/codemodel-v2
+cmake-build-release/.cmake/api/v1/query/toolchains-v1
+cmake-build-release/CMakeFiles/clion-environment.txt
+cmake-build-release/CMakeFiles/clion-log.txt
+cmake-build-release/CMakeFiles/cmake.check_cache
+cmake-build-release/CMakeFiles/rules.ninja
+cmake-build-release/CMakeFiles/TargetDirectories.txt
+cmake-build-release/CMakeFiles/3.24.3/CMakeCCompiler.cmake
+cmake-build-release/CMakeFiles/3.24.3/CMakeCXXCompiler.cmake
+cmake-build-release/CMakeFiles/3.24.3/CMakeDetermineCompilerABI_C.bin
+cmake-build-release/CMakeFiles/3.24.3/CMakeDetermineCompilerABI_CXX.bin
+cmake-build-release/CMakeFiles/3.24.3/CMakeSystem.cmake
+cmake-build-release/CMakeFiles/3.24.3/CompilerIdC/CMakeCCompilerId.c
+cmake-build-release/CMakeFiles/3.24.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+src/dbgPrettyPrint.diag
+src/decoder_main
+src/encodeMapResultOutput.bin
+src/HuffmanD
+src/dbgPrettyPrint.diag
+src/decoder_main
+src/encodeMapResultOutput.bin
+src/HuffmanD
+dbgPrettyPrint.diag
+decompress
+de
+encodeMapResultOutput.bin
+main
+outputFull.bin
