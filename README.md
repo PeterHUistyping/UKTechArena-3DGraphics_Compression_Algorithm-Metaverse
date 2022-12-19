@@ -1,4 +1,5 @@
 # LZSS Understanding and Improving
+Contest Website: https://huawei-techarena-uk.bemyapp.com/2022
 Original Rules: https://github.com/UKTechArena
 
 Original Team Project: https://github.com/UKTechArena/crazy-thursday
